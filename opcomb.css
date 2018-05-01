@@ -1,0 +1,12 @@
+#operacion{
+	font-weight: bold;
+	font-size: 3em;
+}
+#respuesta{ 
+	padding: 0.2.em;
+	font-size: 3em;
+	width: 5em;
+}
+#pOperacion{
+	text-align: center;
+}
